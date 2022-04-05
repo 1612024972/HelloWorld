@@ -1,2 +1,2 @@
-print("GitHub+R")
-print("Wass new")
+print("123123")
+
